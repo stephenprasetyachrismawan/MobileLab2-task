@@ -1,10 +1,10 @@
 # Tugas Pertemuan 2
 
-Fork dan clone repository ini, lalu jalankan perintah `flutter pub get`
+Nama : Stephen Prasetya Chrismawan
+NIM : H1D021025
+Shift: C / Hari Senin
 
-Buatlah tampilan form yang berisi nama, nim, dan tahun lahir pada file `ui/form_data.dart`, lalu buatlah tampilan hasil dari input data tersebut pada file `ui/tampil_data.dart`
+## Screenshot
 
-## Contoh
-
-![Contoh Form](form.png)
-![Contoh Hasil](hasil.png)
+![Lampiran Form](form.png)
+![Lampiran Hasil](hasil.png)
